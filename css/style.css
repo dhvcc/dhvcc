@@ -1,0 +1,27 @@
+body {
+  background-color: white;
+  min-height: 100vh;
+  color: black;
+  font-family: 'Source Code Pro', monospace; }
+
+nav {
+  color: inherit; }
+  nav a {
+    color: inherit;
+    text-decoration: none; }
+    nav a:hover {
+      color: inherit; }
+
+.jumbotron {
+  background-color: black;
+  color: white; }
+
+#intro {
+  padding-bottom: 1rem; }
+
+#stack ul li {
+  margin-bottom: 1rem; }
+  #stack ul li p {
+    margin-bottom: 0; }
+
+/*# sourceMappingURL=style.css.map */
