@@ -1,0 +1,31 @@
+#links {
+  //display: flex;
+  //justify-content: center;
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    //margin-top: 5px;
+
+    li {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      &:hover {
+        //border: 1px solid black;
+      }
+
+      a {
+        //font-size: 32px;
+        font-size: xx-large;
+        text-decoration: none;
+        color: inherit;
+
+        &:hover {
+          color: inherit;
+        }
+      }
+    }
+  }
+}
