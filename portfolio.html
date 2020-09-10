@@ -14,7 +14,7 @@
     <!-- Basic css -->
     <link rel="stylesheet" href="css/style.css">
     <!-- Custom css for this page only -->
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/portfolio.css">
 </head>
 <body>
 <header>
@@ -27,7 +27,7 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
+                <li class="nav-item active">
                     <a class="nav-link" href="portfolio.html">Portfolio</a>
                 </li>
                 <li class="nav-item">
@@ -40,44 +40,53 @@
 <main class="container-fluid">
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
-            <h1 class="display-3">Hello, I'm dhvcc</h1>
-            <p class="lead">I like things simple and minimalistic</p>
+            <h1 class="display-3">Portfolio</h1>
+            <p class="lead">Not much to show... yet</p>
         </div>
     </div>
-    <div class="row justify-content-center">
-        <div class="col-sm-12 col-md-8 col-lg-4">
-            <div id="intro">
-                <h3>About me</h3>
-                <p>BSUIR student interested in anything computer related</p>
-                <p>Currently developing with Python and Django</p>
+    <div id="main-container" class="container-fluid px-5">
+        <div class="row">
+            <div class="col-sm-12 col-md-9 col-lg-6 col-xl-3 thumbnail">
+                <img src="img/dwapper-landing.png" class="img-thumbnail"
+                     id="dwapper-landing" alt="dwapper-landing">
             </div>
-            <div id="stack">
-                <h3>My stack</h3>
-                <ul>
-                    <li>
-                        <p>Programming languages</p>
-                        <p>Basic knowledge: C, C++, Java, HTML, CSS, JS</p>
-                        <p>Advanced: Python</p>
-                    </li>
-                    <li>
-                        Database management systems: SQLite, PostgreSQL
-                    </li>
-                    <li>
-                        Version control systems: Git
-                    </li>
-                </ul>
-            </div>
-            <div id="additional-info">
-                <h3>More info</h3>
-                <p>I'm a backend developer,
-                    so my frontend knowledge comes down to just using bootstrap with native js</p>
-                <p>For Django development I mostly use Gunicorn with NGINX as a proxy server</p>
+            <div class="col-sm-12 col-md-9 col-lg-6 col-xl-6 description">
+                <p class="lead">
+                    Dwapper.tech
+                </p>
                 <p>
-                    Me being a perfectionist and very interested in computer related things
-                    I have a pretty vise knowledge of computer science
-                    from computer architecture to DevOps and Frontend development
+                    While being a pretty simple service, it was build with as much Django as i could just to get a taste
+                    of the framework
+                </p>
+                <p>
+                    The site provides you with pretty nice security headers such as CSP, FP, CORS.
+                    Protection against CSRF and password bruteforce.
+                    Also it uses SSL encryption as well it only supports TLS 1.2/1.3
+                </p>
+                <p>
+                    Account and password reset are confirmed via e-mail. The API is built using Django's DRF.
+                    Though it lacks in i18n and template caching it would be a total overkill for a small project
                 </p>
             </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-sm-12 col-md-9 col-lg-6 col-xl-3 thumbnail">
+                <img src="img/landing.png" class="img-thumbnail"
+                     id="landing" alt="landing">
+            </div>
+            <div class="col-sm-12 col-md-9 col-lg-6 col-xl-6 description">
+                <p class="lead">
+                    This site
+                </p>
+                <p>
+                    Yup, just a bunch of static pages without any JS. Just HTML and CSS with Bootstrap
+                </p>
+                <p>And yes, i did store images on GitHub</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <p>And that's it...</p>
         </div>
     </div>
 </main>
