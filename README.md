@@ -2,11 +2,13 @@
 
 <p>
     <samp>
-        I'm a software developer from Minsk, Belarus interested in anything from computer architecture to frontend development and DevOps
+        I'm a software developer from Minsk, Belarus
+        interested in anything from computer architecture to frontend development and DevOps.
+        Consider visiting my <a target="_blank" href="https://dhvcc.github.io/dhvcc">website</a> for more info 🙂
     </samp>
 </p>
 
-## My stack
+## My stack 🧑‍💻
 
 #### Core
 
@@ -36,7 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat&logo=github-actions)
 
-# Stats
+# Stats 📊
 
 <a>
     <img src="https://github-readme-stats.dhvcc.vercel.app/api?username=dhvcc&count_private=true&theme=graywhite" alt="Dhvcc's github stats">

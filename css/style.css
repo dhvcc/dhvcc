@@ -12,8 +12,22 @@ nav {
     nav a:hover {
       color: inherit; }
 
+main {
+  margin-bottom: 4rem; }
+
 .jumbotron {
   background-color: black;
   color: white; }
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 4rem; }
+  footer a {
+    color: inherit; }
+    footer a:hover {
+      text-decoration: none;
+      color: inherit; }
 
 /*# sourceMappingURL=style.css.map */
