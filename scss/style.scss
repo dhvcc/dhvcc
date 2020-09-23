@@ -1,8 +1,9 @@
+$footer-height: 4rem;
+
 body {
   background-color: white;
   min-height: 100vh;
   color: black;
-  //font-family: 'Roboto Mono', monospace;
   font-family: 'Source Code Pro', monospace;
 }
 
@@ -19,7 +20,27 @@ nav {
   }
 }
 
+main {
+  margin-bottom: $footer-height;
+}
+
 .jumbotron {
   background-color: black;
   color: white;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: $footer-height;
+
+  a {
+    color: inherit;
+
+    &:hover {
+      text-decoration: none;
+      color: inherit;
+    }
+  }
 }
