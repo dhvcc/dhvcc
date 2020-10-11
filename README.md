@@ -4,24 +4,24 @@
     <samp>
         I'm a software developer from Minsk, Belarus
         interested in anything from computer architecture to frontend development and DevOps.
-        Consider visiting my <a target="_blank"  href="https://dhvcc.github.io/dhvcc">website</a> for more info 🙂
+        Consider visiting my <a href="https://dhvcc.github.io/dhvcc">website</a> for more info 🙂
     </samp>
 </p>
 
 <div align="center">
-	<a align="center" href="https://www.codewars.com/users/dhvcc" target="_blank" >
+	<a align="center" href="https://www.codewars.com/users/dhvcc" >
 		<img src="https://simpleicons.org/icons/codewars.svg" height="40" alt="codewars icon"/>
 	</a>
-    <a align="center" href="https://dev.to/dhvcc" target="_blank">
+    <a align="center" href="https://dev.to/dhvcc">
 		<img src="https://simpleicons.org/icons/dev-dot-to.svg" height="40" alt="dev.to icon"/>
 	</a>
-	<a align="center" href="https://www.linkedin.com/in/dhvcc/" target="_blank">
+	<a align="center" href="https://www.linkedin.com/in/dhvcc/">
 		<img src="https://simpleicons.org/icons/linkedin.svg" height="40" alt="linkedin icon"/>
 	</a>
-    <a align="center" href="https://dhvcc.github.io/dhvcc" target="_blank">
+    <a align="center" href="https://dhvcc.github.io/dhvcc">
 		<img src="https://simpleicons.org/icons/firefoxbrowser.svg" height="40" alt="firefox icon"/>
 	</a>
-	<a align="center" href="mailto:1337kwiz@gmail.com" target="_blank">
+	<a align="center" href="mailto:1337kwiz@gmail.com">
 		<img src="https://simpleicons.org/icons/gmail.svg" height="40" alt="gmail icon"/>
 	</a>
 </div>
