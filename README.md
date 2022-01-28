@@ -49,9 +49,9 @@
 
 ## Set up
 
-| OS | Shell | Editor | Terminal | Config |
-|----|-------|--------|----------|--------|
-| ![Manjaro](https://img.shields.io/badge/-Manjaro-000000?style=flat&logo=Manjaro)/![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu) | ![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat&logo=GNU-Bash) | ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code) / ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat&logo=Neovim) | ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=Windows-Terminal) | [![Repo](https://img.shields.io/badge/-Repo-000000?style=flat&logo=Github)](https://github.com/dhvcc/configs)
+| Shell | Editor | Terminal | Config |
+|-------|--------|----------|--------|
+| ![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat&logo=GNU-Bash) | ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code) / ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat&logo=Neovim) | ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=Windows-Terminal) | [![Repo](https://img.shields.io/badge/-Repo-000000?style=flat&logo=Github)](https://github.com/dhvcc/configs)
 
 # Stats 📊
 
