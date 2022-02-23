@@ -47,11 +47,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat&logo=GitHub-Actions)
 
-# Stats 📊
+# Stats
 
-<a>
-    <img src="https://github-readme-stats.dhvcc.vercel.app/api?username=dhvcc&count_private=true&theme=react" alt="Dhvcc's github stats">
-</a>
+![Profile stats](https://github-readme-stats.dhvcc.vercel.app/api?username=dhvcc&hide_title=true&show_icons=true&count_private=true&theme=react&hide_border=true)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
