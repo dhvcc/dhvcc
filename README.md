@@ -1,33 +1,33 @@
-# Hello 👋
+# Hello
 
 <p>
     <samp>
-        I'm a software developer from Minsk, Belarus
+        I'm Alexey, a software developer from Minsk, Belarus.
         <br>
 	Experienced in full stack web development.
-	Also love to tinker Linux and automate <b>everything</b> with shell, make and GH actions
+	<br>
+	Linux enjoyer, Python/JavaScript developer. 
     </samp>
 </p>
 
-<div align="left">
-	<a align="center" href="https://www.codewars.com/users/dhvcc" >
-		<img src="https://simpleicons.org/icons/codewars.svg" height="40" width="40" alt="CodeWars icon"/>
-	</a>
-	<a align="center" href="https://www.linkedin.com/in/dhvcc/">
-		<img src="https://simpleicons.org/icons/linkedin.svg" height="40" width="40" alt="LinkedIn icon"/>
-	</a>
-	<a align="center" href="mailto:1337kwiz@gmail.com">
-		<img src="https://simpleicons.org/icons/gmail.svg" height="40" width="40" alt="Gmail icon"/>
-	</a>
-</div>
+### Contacts
 
-## My stack 🧑‍💻
+![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)
+![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)
+
+## Setup
+
+| Shell | Editor | Terminal | Config |
+|-------|--------|----------|--------|
+| ![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat&logo=GNU-Bash) | ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code&logoColor=0066b8) / ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat&logo=Neovim) | ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=Windows-Terminal) | [![Repo](https://img.shields.io/badge/-Repo-000000?style=flat&logo=Github)](https://github.com/dhvcc/configs)
+
+
+## Tech stack
 
 ### Backend
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django&logoColor=0C4B33)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
 
 ### Frontend
@@ -36,22 +36,16 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=Material-UI&logoColor=9170c2)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=MUI&logoColor=9170c2)
 
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 ![GNU Make](https://img.shields.io/badge/-GNU%20Make-000000?style=flat&logo=GNU)
-
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX&logoColor=009639)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat&logo=GitHub-Actions)
-
-## Set up
-
-| Shell | Editor | Terminal | Config |
-|-------|--------|----------|--------|
-| ![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat&logo=GNU-Bash) | ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code) / ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat&logo=Neovim) | ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=Windows-Terminal) | [![Repo](https://img.shields.io/badge/-Repo-000000?style=flat&logo=Github)](https://github.com/dhvcc/configs)
 
 # Stats 📊
 
