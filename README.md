@@ -39,7 +39,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=MUI&logoColor=9170c2)
 
-### DevOps
+### Deployment and Automation
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 ![GNU Make](https://img.shields.io/badge/-GNU%20Make-000000?style=flat&logo=GNU)
