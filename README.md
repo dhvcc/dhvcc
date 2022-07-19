@@ -13,7 +13,7 @@
 ### Contacts
 
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/dhvcc/)
-[![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:1337kwiz@gmail.com)
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:alexey.artishevskiy@gmail.com)
 
 ## Setup
 
