@@ -26,26 +26,24 @@
 
 ### Backend
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django&logoColor=0C4B33)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=FFE17E)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=20AA76)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
-
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=MUI&logoColor=9170c2)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=Redux&logoColor=764ABC)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=flat&logo=MUI&logoColor=9170c2)
 
 ### Deployment and Automation
 
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
-![GNU Make](https://img.shields.io/badge/-GNU%20Make-000000?style=flat&logo=GNU)
-![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX&logoColor=009639)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat&logo=GitHub-Actions)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker)
+![GNU Make](https://img.shields.io/badge/-GNU%20Make-black?style=flat&logo=GNU)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=NGINX&logoColor=009639)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=Ansible)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=GitHub-Actions)
 
 # Stats
 
