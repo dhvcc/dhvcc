@@ -12,14 +12,13 @@
 
 ### Contacts
 
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/dhvcc/)
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:alexey.artishevskiy@gmail.com)
 
 ## Setup
 
 | Shell | Editor | Terminal | Config |
 |-------|--------|----------|--------|
-| ![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat&logo=GNU-Bash) | ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code&logoColor=0066b8) / ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat&logo=Neovim) | ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=Windows-Terminal) | [![Repo](https://img.shields.io/badge/-Repo-000000?style=flat&logo=Github)](https://github.com/dhvcc/configs)
+| ![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat&logo=GNU-Bash) | ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains) / ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat&logo=Neovim) | ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=Windows-Terminal) | [![Repo](https://img.shields.io/badge/-Repo-000000?style=flat&logo=Github)](https://github.com/dhvcc/configs)
 
 
 ## Tech stack
@@ -28,6 +27,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=FFE17E)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=20AA76)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=009688)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL&logoColor=E10098)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL)
 
 ### Frontend
@@ -43,6 +44,7 @@
 ![GNU Make](https://img.shields.io/badge/-GNU%20Make-black?style=flat&logo=GNU)
 ![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=NGINX&logoColor=009639)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=Ansible)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-AWS)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=GitHub-Actions)
 
 # Stats
