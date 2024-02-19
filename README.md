@@ -49,5 +49,5 @@
 
 # Stats
 
-![Profile stats](https://github-readme-stats.dhvcc.vercel.app/api?username=dhvcc&hide_title=true&show_icons=true&count_private=true&theme=react&hide_border=true)
+![Profile stats](https://github-readme-stats.vercel.app/api?username=dhvcc&hide_title=true&show_icons=true&count_private=true&theme=react&hide_border=true)
 
