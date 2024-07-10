@@ -2,9 +2,7 @@
 
 <p>
     <samp>
-        I'm Alexey, a software developer from Minsk, Belarus.
-        <br>
-	Experienced in full stack web development.
+        I'm Alexey, a software developer experienced in full stack web development.
 	<br>
 	Linux enjoyer, Python/JavaScript developer.
     </samp>
