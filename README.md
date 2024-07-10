@@ -16,7 +16,7 @@
 
 | Shell | Editor | Terminal | Config |
 |-------|--------|----------|--------|
-| ![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat&logo=GNU-Bash) | ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains) / ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat&logo=Neovim) | ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=Windows-Terminal) | [![Repo](https://img.shields.io/badge/-Repo-000000?style=flat&logo=Github)](https://github.com/dhvcc/configs)
+| ![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat&logo=GNU-Bash) | ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains) / ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=vscodium) / ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=flat&logo=Neovim) | ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=Windows-Terminal) | [![Repo](https://img.shields.io/badge/-Repo-000000?style=flat&logo=Github)](https://github.com/dhvcc/configs)
 
 
 ## Tech stack
