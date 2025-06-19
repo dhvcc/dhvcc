@@ -1,16 +1,14 @@
-# Hello
+# 👋
 
 <p>
     <samp>
-        I'm Alexey, a software engineer experienced in full stack web development.
-	<br>
 	Linux enjoyer, Python/JavaScript developer.
     </samp>
 </p>
 
 ### Contacts
 
-[![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:alexey.artishevskiy@gmail.com)
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:github-contact@dhvcc.me)
 
 ## Setup
 
